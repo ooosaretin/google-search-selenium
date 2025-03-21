@@ -101,11 +101,6 @@ During the execution of the Selenium test, **video recordings** and **screenshot
 2. Find the video file corresponding to the test run (e.g., `google-search-test.mp4`).
 3. Play the video to view the test execution.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ### Additional Tips:
 1. **Customizing Video Recording**: If you're using custom libraries for video recording (like `ffmpeg` or other tools), provide setup instructions in the README, including how to install and configure them.
    
