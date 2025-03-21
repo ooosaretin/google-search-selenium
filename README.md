@@ -1,7 +1,3 @@
-For a **Google Search Selenium Automated Test** written in **JavaScript** with video recording, the README should be clear and informative, guiding users through the installation, usage, and viewing of test results. Here's a detailed example of what to include in the README file:
-
----
-
 # Google Search Selenium Automated Test (JavaScript)
 
 This repository contains an automated test for **Google Search** using **Selenium WebDriver** in **JavaScript**. The test automates a Google search query, validates search results, and captures **video** during the execution to visualize and debug the process.
