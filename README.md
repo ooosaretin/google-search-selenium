@@ -70,17 +70,6 @@ Before running the test, you need to have the following installed:
 
 3. The tests will execute, and you can track progress in the terminal. Upon completion, video and screenshot files will be saved in designated directories.
 
-### Viewing Test Results
-
-- **Video**: The video of the test execution will be saved in the `videos/` directory.
-  - Example: `videos/google-search-test.mp4`
-- **Screenshots**: Screenshots will be stored in the `screenshots/` directory at specific points during the test.
-  - Example: `screenshots/google-search-result.png`
-
-### Example Screenshot
-
-![Google Search Test Screenshot](path/to/screenshot.png)
-
 ## Test Recording
 
 https://github.com/user-attachments/assets/752516d1-20b0-40da-be73-af6fb3ca1555
