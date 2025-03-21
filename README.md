@@ -13,8 +13,6 @@ This repository contains an automated test for **Google Search** using **Seleniu
 4. [Installation](#installation)
 5. [Usage](#usage)
 6. [Test Recording](#test-recording)
-7. [Contributing](#contributing)
-8. [License](#license)
 
 ## Overview
 This project demonstrates how to use **Selenium WebDriver** in **JavaScript** to perform automated testing on Google Search. The test performs a search query, checks for specific elements on the results page, and saves video and screenshot recordings of the test execution. This helps with debugging and visual verification.
