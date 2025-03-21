@@ -33,7 +33,7 @@ Before running the test, you need to have the following installed:
 - [Node.js](https://nodejs.org/) (version 12 or higher)
 - [Selenium WebDriver](https://www.selenium.dev/documentation/en/webdriver/) for JavaScript
 - [ChromeDriver](https://sites.google.com/a/chromium.org/chromedriver/) (or another driver if using a different browser)
-- [FFMPEG](https://www.ffmpeg.org/) for video recording (if you're capturing videos)
+- [Monosnap](https://monosnap.com/) for video recording (if you're capturing videos)
 
 ## Installation
 
@@ -57,8 +57,8 @@ Before running the test, you need to have the following installed:
    - Ensure that **ChromeDriver** or the appropriate WebDriver for your browser is installed and available in your system’s PATH.
    - You can download **ChromeDriver** from [here](https://sites.google.com/a/chromium.org/chromedriver/).
 
-5. **Set up FFMPEG for video recording**:
-   - If you're using **FFMPEG** for video recording, make sure it's installed on your system. You can download it from [FFMPEG’s website](https://www.ffmpeg.org/download.html).
+5. **Set up Monosnap for video recording**:
+   - If you're using **Monosnap** for video recording, make sure it's installed on your system. You can download it from [Monosnap’s website](https://monosnap.com/download/win).
 
 ## Usage
 
