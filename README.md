@@ -82,17 +82,6 @@ During test execution, **video recordings** and **screenshots** will be automati
 
 To view the **video**, navigate to the `target/videos/` folder and open the `.mp4` file corresponding to your test run (e.g., `google-search-test.mp4`).
 
-## Contributing
-Contributions are welcome! If you'd like to improve this project, please follow the steps below:
-
-1. **Fork the repository**.
-2. **Create a new branch** (`git checkout -b feature-branch`).
-3. **Make your changes** and commit them (`git commit -am 'Add new feature'`).
-4. **Push your changes** to your fork (`git push origin feature-branch`).
-5. **Create a pull request**.
-
-Please ensure that your changes do not break the existing tests and add new ones if necessary.
-
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
