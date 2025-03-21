@@ -1,10 +1,10 @@
-For a **Google Search Selenium Automated Test** written in **JavaScript** with video and screenshot recordings, the README should be clear and informative, guiding users through the installation, usage, and viewing of test results. Here's a detailed example of what to include in the README file:
+For a **Google Search Selenium Automated Test** written in **JavaScript** with video recording, the README should be clear and informative, guiding users through the installation, usage, and viewing of test results. Here's a detailed example of what to include in the README file:
 
 ---
 
 # Google Search Selenium Automated Test (JavaScript)
 
-This repository contains an automated test for **Google Search** using **Selenium WebDriver** in **JavaScript**. The test automates a Google search query, validates search results, and captures **video** and **screenshots** during the execution to visualize and debug the process.
+This repository contains an automated test for **Google Search** using **Selenium WebDriver** in **JavaScript**. The test automates a Google search query, validates search results, and captures **video** during the execution to visualize and debug the process.
 
 ## Table of Contents
 1. [Overview](#overview)
@@ -12,10 +12,10 @@ This repository contains an automated test for **Google Search** using **Seleniu
 3. [Prerequisites](#prerequisites)
 4. [Installation](#installation)
 5. [Usage](#usage)
-6. [Test Recording](#test-recording)
+6. [Video Recording](#video-recording)
 
 ## Overview
-This project demonstrates how to use **Selenium WebDriver** in **JavaScript** to perform automated testing on Google Search. The test performs a search query, checks for specific elements on the results page, and saves video and screenshot recordings of the test execution. This helps with debugging and visual verification.
+This project demonstrates how to use **Selenium WebDriver** in **JavaScript** to perform automated testing on Google Search. The test performs a search query, checks for specific elements on the results page, and saves video recording of the test execution. This helps with debugging and visual verification.
 
 ## Features
 - **Selenium WebDriver** for automated testing.
@@ -68,9 +68,9 @@ Before running the test, you need to have the following installed:
 
 2. By default, the tests will run in headless mode (without opening a browser window). If you prefer to see the test execution in the browser, you can change the browser options in your test script to run in non-headless mode.
 
-3. The tests will execute, and you can track progress in the terminal. Upon completion, video and screenshot files will be saved in designated directories.
+3. The tests will execute, and you can track progress in the terminal. Upon completion, video file will be saved in designated directories.
 
-## Test Recording
+## Video Recording
 
 https://github.com/user-attachments/assets/752516d1-20b0-40da-be73-af6fb3ca1555
 
