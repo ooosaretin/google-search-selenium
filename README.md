@@ -24,8 +24,7 @@ This project demonstrates how to use **Selenium WebDriver** in **JavaScript** to
 Before running the test, you need to have the following installed:
 
 - [Node.js](https://nodejs.org/) (version 12 or higher)
-- [Selenium WebDriver](https://www.selenium.dev/documentation/en/webdriver/) for JavaScript
-- [ChromeDriver](https://www.npmjs.com/package/selenium-webdriver/) (or another driver if using a different browser)
+- [Selenium WebDriver](https://www.npmjs.com/package/selenium-webdriver/) for JavaScript
 
 ## Installation
 
@@ -46,8 +45,9 @@ Before running the test, you need to have the following installed:
    ```
 
 4. **Download the WebDriver**:
-   - Ensure that **ChromeDriver** or the appropriate WebDriver for your browser is installed and available in your system’s PATH.
-   - You can download **ChromeDriver** from [here](https://www.npmjs.com/package/selenium-webdriver/).
+   - Ensure that **Selenium WebDriver** or the appropriate WebDriver for your browser is installed and available in your system’s PATH.
+   - You can download **Selenium WebDriver** from [here](https://www.npmjs.com/package/selenium-webdriver/) , which contains this command for installation:
+     npm install selenium-webdriver
 
 ## Usage
 
