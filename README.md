@@ -21,7 +21,6 @@ This project demonstrates how to use **Selenium WebDriver** in **JavaScript** to
 - **Selenium WebDriver** for automated testing.
 - Validates Google search results.
 - **Video recording** of test execution.
-- **Screenshots** captured at key moments in the test.
 - Supports headless browser mode for CI/CD.
 - Easy to set up and run using **Node.js** and **NPM**.
 
