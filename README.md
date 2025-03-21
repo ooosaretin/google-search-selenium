@@ -1,7 +1,3 @@
-For a **Google Search Selenium Automated Test** with video and screenshot recordings in your GitHub repository, your README should clearly outline the project’s purpose, setup, execution, and details about the recordings. Here's an example of how to structure your README:
-
----
-
 # Google Search Selenium Automated Test
 
 This repository contains an automated test suite for **Google Search** using **Selenium WebDriver**. The test automates a search query on Google, performs basic validations, and captures **video** and **screenshots** during test execution for better visualization and debugging.
