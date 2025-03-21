@@ -101,17 +101,6 @@ During the execution of the Selenium test, **video recordings** and **screenshot
 2. Find the video file corresponding to the test run (e.g., `google-search-test.mp4`).
 3. Play the video to view the test execution.
 
-## Contributing
-We welcome contributions to this project! If you'd like to contribute, follow the steps below:
-
-1. **Fork the repository** to your GitHub account.
-2. **Create a new branch** (`git checkout -b feature-branch`).
-3. **Make your changes** and commit them (`git commit -am 'Add new feature or fix'`).
-4. **Push your changes** to your forked repository (`git push origin feature-branch`).
-5. **Submit a pull request**.
-
-Please ensure your changes don’t break existing functionality and add tests for new features.
-
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
