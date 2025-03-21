@@ -47,7 +47,7 @@ Before running the test, you need to have the following installed:
 
 4. **Download the WebDriver**:
    - Ensure that **ChromeDriver** or the appropriate WebDriver for your browser is installed and available in your system’s PATH.
-   - You can download **ChromeDriver** from [here](https://sites.google.com/a/chromium.org/chromedriver/).
+   - You can download **ChromeDriver** from [here](https://www.npmjs.com/package/selenium-webdriver/).
 
 ## Usage
 
