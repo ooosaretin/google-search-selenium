@@ -47,7 +47,9 @@ Before running the test, you need to have the following installed:
 4. **Download the WebDriver**:
    - Ensure that **Selenium WebDriver** or the appropriate WebDriver for your browser is installed and available in your system’s PATH.
    - You can download **Selenium WebDriver** from [here](https://www.npmjs.com/package/selenium-webdriver/) , which contains this command for installation:
+     ```bash
      npm install selenium-webdriver
+     ```
 
 ## Usage
 
