@@ -85,31 +85,6 @@ Before running the test, you need to have the following installed:
 
 ## Test Recording
 
-During the execution of the Selenium test, **video recordings** and **screenshots** will be captured. These provide a visual record of the test and can help with debugging or verifying the behavior of the application.
-
-- **Video Recording**: Captures the entire test execution in real-time. It can be viewed in video players like VLC.
-- **Screenshots**: Captures screenshots at key points (e.g., before and after submitting the search query).
-
-### Where to find the recordings:
-
-- **Videos** are stored in the `videos/` directory.
-- **Screenshots** are stored in the `screenshots/` directory.
-
-### Example of video playback:
-
-1. Navigate to the `videos/` folder.
-2. Find the video file corresponding to the test run (e.g., `google-search-test.mp4`).
-3. Play the video to view the test execution.
-
-### Additional Tips:
-1. **Customizing Video Recording**: If you're using custom libraries for video recording (like `ffmpeg` or other tools), provide setup instructions in the README, including how to install and configure them.
-   
-2. **JavaScript Setup**: If you're using frameworks like **Mocha** or **Jest** for testing with Selenium, include information about how to run tests with those tools, and modify the test commands accordingly.
-
-3. **Troubleshooting**: If there are common issues (like WebDriver setup or video recording issues), consider adding a **Troubleshooting** section.
-
-This structure ensures that users understand how to set up the project, run tests, and view recorded results like videos and screenshots, making it easy to use and debug.
-
 https://github.com/user-attachments/assets/752516d1-20b0-40da-be73-af6fb3ca1555
 
 
