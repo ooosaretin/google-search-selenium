@@ -25,7 +25,7 @@ Before running the test, you need to have the following installed:
 
 - [Node.js](https://nodejs.org/) (version 12 or higher)
 - [Selenium WebDriver](https://www.selenium.dev/documentation/en/webdriver/) for JavaScript
-- [ChromeDriver](https://sites.google.com/a/chromium.org/chromedriver/) (or another driver if using a different browser)
+- [ChromeDriver](https://www.npmjs.com/package/selenium-webdriver/) (or another driver if using a different browser)
 
 ## Installation
 
