@@ -35,12 +35,12 @@ To run the test, ensure you have the following installed:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/google-search-selenium-test.git
+   git clone https://github.com/yourusername/google-search-selenium.git
    ```
 
 2. **Navigate to the project directory**:
    ```bash
-   cd google-search-selenium-test
+   cd google-search-selenium
    ```
 
 3. **Install dependencies**:
