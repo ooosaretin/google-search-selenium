@@ -1,6 +1,6 @@
 # Google Search Selenium Automated Test (JavaScript)
 
-This repository contains an automated test for **Google Search** using **Selenium WebDriver** in **JavaScript**. The test automates a Google search query, validates search results, and captures **video** during the execution to visualize and debug the process.
+This repository contains an automated test for **Google Search** using **Selenium WebDriver** in **JavaScript** along with a video recording of the test execution. The test automates a Google search query and validates search results.
 
 ## Table of Contents
 1. [Overview](#overview)
@@ -11,7 +11,7 @@ This repository contains an automated test for **Google Search** using **Seleniu
 6. [Video Recording](#video-recording)
 
 ## Overview
-This project demonstrates how to use **Selenium WebDriver** in **JavaScript** to perform automated testing on Google Search. The test performs a search query, checks for specific elements on the results page, and saves video recording of the test execution. This helps with debugging and visual verification.
+This project demonstrates how to use **Selenium WebDriver** in **JavaScript** to perform automated testing on Google Search. The test performs a search query and checks for specific elements on the results page. This helps with debugging and visual verification.
 
 ## Features
 - **Selenium WebDriver** for automated testing.
@@ -61,7 +61,7 @@ Before running the test, you need to have the following installed:
 
 2. By default, the tests will run in headless mode (without opening a browser window). If you prefer to see the test execution in the browser, you can change the browser options in your test script to run in non-headless mode.
 
-3. The tests will execute, and you can track progress in the terminal. Upon completion, video file will be saved in designated directories.
+3. The tests will execute, and you can track progress in the terminal.
 
 ## Video Recording
 
